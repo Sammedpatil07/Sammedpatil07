@@ -115,7 +115,7 @@ Shoutout to **[@ThunderGod-54](https://github.com/ThunderGod-54)** - An amazing 
 
 - 💼 **LinkedIn**: [linkedin.com/in/sammedpatil](https://linkedin.com/in/sammedpatil)
 - 🐦 **Twitter**: [@SammedPatil](https://twitter.com/sammedpatil)
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+- 📧 **Email**: [sammedp63@gmail.com](mailto:your-email@example.com)
 - 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 
 ---
