@@ -113,7 +113,7 @@ Shoutout to **[@ThunderGod-54](https://github.com/ThunderGod-54)** - An amazing 
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn**: [linkedin.com/in/sammedpatil](https://linkedin.com/in/sammedpatil)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/sammed-kuntinath-patil-a28902282/
 - 🐦 **Twitter**: [@SammedPatil](https://twitter.com/sammedpatil)
 - 📧 **Email**: [sammedp63@gmail.com](mailto:your-email@example.com)
 - 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
