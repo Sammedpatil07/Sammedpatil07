@@ -105,12 +105,6 @@ I'm a passionate **full-stack developer** with expertise in modern web technolog
 
 ---
 
-## 🤝 Community & Inspiration
-
-Shoutout to **[@ThunderGod-54](https://github.com/ThunderGod-54)** - An amazing developer from Belagavi working on innovative projects like **StegoJPDF**, **Shiksha**, and **Asteria**. Their work in full-stack development and creative coding truly inspires me. If you're interested in seeing some stellar projects, definitely check out their [profile](https://github.com/ThunderGod-54)! 🚀
-
----
-
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn**: https://www.linkedin.com/in/sammed-kuntinath-patil-a28902282/
